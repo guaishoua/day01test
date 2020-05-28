@@ -1,0 +1,5 @@
+rootProject.name='day01test'
+include ':app'
+include ':frame'
+include ':myframe'
+include ':data'
